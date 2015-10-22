@@ -1,3 +1,4 @@
+#I lose my keys all th time too
 def intro
   system("clear")
   puts <<-EOP
